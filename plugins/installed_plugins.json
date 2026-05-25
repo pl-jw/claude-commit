@@ -236,6 +236,16 @@
         "installedAt": "2026-05-25T12:46:27.534Z",
         "lastUpdated": "2026-05-25T12:46:27.534Z"
       }
+    ],
+    "andrej-karpathy-skills@karpathy-skills": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\karpathy-skills\\andrej-karpathy-skills\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-25T13:47:32.547Z",
+        "lastUpdated": "2026-05-25T13:47:32.547Z",
+        "gitCommitSha": "2c606141936f1eeef17fa3043a72095b4765b9c2"
+      }
     ]
   }
 }
