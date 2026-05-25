@@ -1,0 +1,241 @@
+{
+  "version": 2,
+  "plugins": {
+    "superpowers@superpowers-marketplace": [
+      {
+        "scope": "project",
+        "projectPath": "E:\\Russian Video Translator",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\5.0.7",
+        "version": "5.0.7",
+        "installedAt": "2026-04-28T08:55:05.782Z",
+        "lastUpdated": "2026-04-28T08:55:05.782Z",
+        "gitCommitSha": "6efe32c9e2dd002d0c394e861e0529675d1ab32e"
+      },
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\5.1.0",
+        "version": "5.1.0",
+        "installedAt": "2026-04-30T05:00:25.348Z",
+        "lastUpdated": "2026-05-05T13:43:57.903Z",
+        "gitCommitSha": "6efe32c9e2dd002d0c394e861e0529675d1ab32e"
+      }
+    ],
+    "superpowers-developing-for-claude-code@superpowers-marketplace": [
+      {
+        "scope": "project",
+        "projectPath": "E:\\Project\\LingvoOS",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers-developing-for-claude-code\\0.3.1",
+        "version": "0.3.1",
+        "installedAt": "2026-05-05T14:23:42.815Z",
+        "lastUpdated": "2026-05-05T14:23:42.815Z",
+        "gitCommitSha": "74afe935da49efe782907e837a27ce618498099a"
+      }
+    ],
+    "elements-of-style@superpowers-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\superpowers-marketplace\\elements-of-style\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-18T18:10:51.548Z",
+        "lastUpdated": "2026-05-18T18:10:51.548Z",
+        "gitCommitSha": "6099c505c2a8eb066f3777f83a97d9d828f7954c"
+      }
+    ],
+    "skill-creator@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\skill-creator\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-05-18T18:53:34.176Z",
+        "lastUpdated": "2026-05-18T18:53:34.176Z"
+      }
+    ],
+    "code-review@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\code-review\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-05-18T18:58:12.781Z",
+        "lastUpdated": "2026-05-18T18:58:12.781Z"
+      }
+    ],
+    "feature-dev@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\feature-dev\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-05-18T18:58:14.086Z",
+        "lastUpdated": "2026-05-18T18:58:14.086Z"
+      }
+    ],
+    "claude-md-management@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\claude-md-management\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-18T18:58:15.336Z",
+        "lastUpdated": "2026-05-18T18:58:15.336Z"
+      }
+    ],
+    "commit-commands@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\commit-commands\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-05-18T18:58:16.559Z",
+        "lastUpdated": "2026-05-18T18:58:16.559Z"
+      }
+    ],
+    "ralph-loop@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\ralph-loop\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-18T18:58:17.820Z",
+        "lastUpdated": "2026-05-18T18:58:17.820Z"
+      }
+    ],
+    "code-simplifier@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\code-simplifier\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-18T18:58:19.200Z",
+        "lastUpdated": "2026-05-18T18:58:19.200Z"
+      }
+    ],
+    "security-guidance@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\security-guidance\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-05-18T18:58:25.328Z",
+        "lastUpdated": "2026-05-18T18:58:25.328Z"
+      }
+    ],
+    "semgrep@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\semgrep\\0.5.3",
+        "version": "0.5.3",
+        "installedAt": "2026-05-18T18:58:29.495Z",
+        "lastUpdated": "2026-05-18T18:58:29.495Z",
+        "gitCommitSha": "3711c33ad790df16e67c911eca792c473ec9a2a4"
+      }
+    ],
+    "aikido@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\aikido\\1.1.0",
+        "version": "1.1.0",
+        "installedAt": "2026-05-18T18:58:32.186Z",
+        "lastUpdated": "2026-05-18T18:58:32.186Z",
+        "gitCommitSha": "79ac524f87c9faa9a356ff3d495b8a5b77e01bbd"
+      }
+    ],
+    "sonatype-guide@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\sonatype-guide\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-18T18:58:34.912Z",
+        "lastUpdated": "2026-05-18T18:58:34.912Z",
+        "gitCommitSha": "1dae73980f591d3196f5532ac72186513563d028"
+      }
+    ],
+    "coderabbit@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\coderabbit\\1.1.1",
+        "version": "1.1.1",
+        "installedAt": "2026-05-18T18:58:37.515Z",
+        "lastUpdated": "2026-05-18T18:58:37.515Z",
+        "gitCommitSha": "a81eb76a1539e4a3f2b5c6fc133849124e72d303"
+      }
+    ],
+    "sonarqube@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\sonarqube\\2.1.0",
+        "version": "2.1.0",
+        "installedAt": "2026-05-18T18:58:40.438Z",
+        "lastUpdated": "2026-05-19T11:26:00.716Z",
+        "gitCommitSha": "91eb175d6cf5d47a3edadbe61bdf782c31f0a65a"
+      }
+    ],
+    "ai-plugins@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\ai-plugins\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-18T18:58:43.166Z",
+        "lastUpdated": "2026-05-18T18:58:43.166Z",
+        "gitCommitSha": "975f0ce422b1f2677681ffd085aef34ea1826b70"
+      }
+    ],
+    "claude-code-setup@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\claude-code-setup\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-24T15:15:49.894Z",
+        "lastUpdated": "2026-05-24T15:15:49.894Z"
+      }
+    ],
+    "understand-anything@understand-anything": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\understand-anything\\understand-anything\\2.7.5",
+        "version": "2.7.5",
+        "installedAt": "2026-05-25T06:46:41.558Z",
+        "lastUpdated": "2026-05-25T06:46:41.558Z",
+        "gitCommitSha": "470cc01dc5f9236a93eb704afdd479cd5db79710"
+      }
+    ],
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\frontend-design\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-05-25T12:46:07.005Z",
+        "lastUpdated": "2026-05-25T12:46:07.005Z"
+      }
+    ],
+    "pr-review-toolkit@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\pr-review-toolkit\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-05-25T12:46:11.320Z",
+        "lastUpdated": "2026-05-25T12:46:11.320Z"
+      }
+    ],
+    "hookify@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\hookify\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-05-25T12:46:21.483Z",
+        "lastUpdated": "2026-05-25T12:46:21.483Z"
+      }
+    ],
+    "explanatory-output-style@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\explanatory-output-style\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-25T12:46:26.069Z",
+        "lastUpdated": "2026-05-25T12:46:26.069Z"
+      }
+    ],
+    "learning-output-style@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\pjwl1\\.claude\\plugins\\cache\\claude-plugins-official\\learning-output-style\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-05-25T12:46:27.534Z",
+        "lastUpdated": "2026-05-25T12:46:27.534Z"
+      }
+    ]
+  }
+}
